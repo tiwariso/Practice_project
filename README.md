@@ -40,8 +40,3 @@ Here’s how the app looks:
 (Or update the filename in the Markdown above if you use another name.)
 
 ---
-
-## ⚠️ Note
-There’s a small fix needed in the calculation logic:  
-```kotlin
-var weightValue = weightInput.toDoubleOrNull() ?: 0.0
