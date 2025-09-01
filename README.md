@@ -34,7 +34,7 @@ This project demonstrates state management, text input handling, and UI layout i
 ## 📸 App Preview
 Here’s how the app looks:
 
-![App Screenshot](screenshots/WhatsApp%20Image%202025-09-01%20at%2018.59.57_cf314a69.jpg)
+![App Screenshot](Practice_project/WhatsApp%20Image%202025-09-01%20at%2018.59.57_cf314a69.jpg)
 
 👉 To show your UI, save a screenshot in a folder named **`screenshots/`** inside your project and rename it to **`bmi_ui.png`**.  
 (Or update the filename in the Markdown above if you use another name.)
